@@ -1,7 +1,7 @@
 <?php
 
 // Framework Registration
-require get_template_directory() . '/class-function/reg-framework.php';
+require get_template_directory() . '/class-function/reg-CSSframework.php';
 
 // Boostrap Navigation Walker
 require get_template_directory() . '/class-function/bootstrap-5-navwalker.php';

@@ -19,4 +19,6 @@ function enqueue_bootstrap_js() {
 
 add_action('wp_enqueue_scripts', 'enqueue_bootstrap_js');   
 
+
+
 ?>
