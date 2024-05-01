@@ -1,3 +1,5 @@
+<?php /* Template Name: Custom Home Page */ ?>
+
 <?php get_header(); ?>
 
 <div id="content" class="container"> <!-- Your content goes here -->
@@ -9,5 +11,5 @@ if (have_posts()) :
 endif;
 ?> 
 </div>  
-
-<?php get_footer(); ?>       
+      
+<?php get_footer(); ?>     
