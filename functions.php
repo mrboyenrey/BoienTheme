@@ -13,3 +13,5 @@ require get_template_directory() . '/class-function/default.php';
 require get_template_directory() . '/class-function/reg-custom.php';
 
 ?>
+
+ 

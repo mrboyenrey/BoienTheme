@@ -6,15 +6,17 @@ Version: 1.0
 */
    
 /* Header CSS */ 
-@import 'assets/css/header.css';      
+@import '/assets/css/header.css';      
 /* Content CSS */ 
-@import 'assets/css/content.css';       
+@import '/assets/css/content.css';       
 /* Sidebar CSS */ 
-@import 'assets/css/sidebar.css';  
+@import '/assets/css/sidebar.css';  
 /* Footer CSS */   
-@import 'assets/css/footer.css'; 
+@import '/assets/css/footer.css'; 
 /* Global CSS */ 
-@import 'assets/css/global.css';   
+@import '/assets/css/global.css';        
+
+     
 
    
-     
+       
