@@ -1,4 +1,7 @@
-#main-menu ul li {
-    font-size: 19px;
-    font-weight: 400;
+#main-menu ul li { 
+    font-size: 20px !important;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;      
 } 

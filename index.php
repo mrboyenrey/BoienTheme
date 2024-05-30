@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<div id="content" class="container"> <!-- Your content goes here -->
+ <!-- Your content goes here -->
 <?php
 if (have_posts()) :
     while (have_posts()) : the_post();       
@@ -8,6 +8,6 @@ if (have_posts()) :
     endwhile;
 endif;
 ?> 
-</div>  
+ 
 
 <?php get_footer(); ?>       

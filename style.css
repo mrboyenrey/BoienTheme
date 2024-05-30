@@ -4,16 +4,17 @@ Description: Boien Theme Development
 Author: Boien Lim Reyes
 Version: 1.0
 */
-
-
-/* Glonal Setting */ 
-@import 'assets/css/global.css';        
+   
 /* Header CSS */ 
 @import 'assets/css/header.css';      
 /* Content CSS */ 
-@import 'assets/css/content.css';   
+@import 'assets/css/content.css';       
 /* Sidebar CSS */ 
 @import 'assets/css/sidebar.css';  
-/* Footer CSS */ 
-@import 'assets/css/footer.css';  
+/* Footer CSS */   
+@import 'assets/css/footer.css'; 
+/* Global CSS */ 
+@import 'assets/css/global.css';   
 
+   
+     

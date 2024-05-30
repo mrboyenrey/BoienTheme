@@ -7,7 +7,7 @@
 </head>
 <body <?php body_class(); ?>>
 <container>
-<nav class="navbar navbar-expand-md navbar-light bg-light">
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top">   
     <div class="container">  
         <!--Logo Brand HERE-->  
         <a class="navbar-brand" href="#">
